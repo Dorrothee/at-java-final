@@ -1,0 +1,27 @@
+2024-11-04 19:40:13 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\daryn\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+2024-11-04 19:40:13 [main] INFO  InitTest - Setting up WebDriver for the test.
+2024-11-04 19:40:14 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 130.0.6723.91 (resolved driver for Chrome 130)
+2024-11-04 19:40:14 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\daryn\.cache\selenium\chromedriver\win64\130.0.6723.91\chromedriver.exe
+2024-11-04 19:40:15 [main] INFO  InitTest - CHROME browser launched.
+2024-11-04 19:40:15 [main] INFO  InitTest - Navigated to SauceDemo website.
+2024-11-04 19:40:15 [main] INFO  InitTest - Testing with username: , password: 
+2024-11-04 19:40:15 [main] INFO  InitTest - Expected error: Epic sadface: Username is required, Actual error: Epic sadface: Username is required
+2024-11-04 19:40:16 [main] INFO  InitTest - Browser closed.
+2024-11-04 19:40:16 [main] INFO  InitTest - Setting up WebDriver for the test.
+2024-11-04 19:40:16 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using msedgedriver 130.0.2849.68 (resolved driver for Edge 130)
+2024-11-04 19:40:16 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.edge.driver as C:\Users\daryn\.cache\selenium\msedgedriver\win64\130.0.2849.68\msedgedriver.exe
+2024-11-04 19:40:17 [main] INFO  InitTest - EDGE browser launched.
+2024-11-04 19:40:17 [main] INFO  InitTest - Navigated to SauceDemo website.
+2024-11-04 19:40:17 [main] INFO  InitTest - Testing with username: user, password: 
+2024-11-04 19:40:17 [main] INFO  InitTest - Expected error: Epic sadface: Password is required, Actual error: Epic sadface: Password is required
+2024-11-04 19:40:19 [main] INFO  InitTest - Browser closed.
+2024-11-04 19:40:19 [main] INFO  InitTest - Setting up WebDriver for the test.
+2024-11-04 19:40:19 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 130.0.6723.91 (resolved driver for Chrome 130)
+2024-11-04 19:40:19 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\daryn\.cache\selenium\chromedriver\win64\130.0.6723.91\chromedriver.exe
+2024-11-04 19:40:20 [main] INFO  InitTest - CHROME browser launched.
+2024-11-04 19:40:20 [main] INFO  InitTest - Navigated to SauceDemo website.
+2024-11-04 19:40:20 [main] INFO  InitTest - Testing with username: visual_user, password: secret_sauce
+2024-11-04 19:40:20 [main] INFO  InitTest - Successfully logged in with valid credentials.
+2024-11-04 19:40:21 [main] INFO  InitTest - Browser closed.
